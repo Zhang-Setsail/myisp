@@ -86,7 +86,7 @@ def train_model():
 
     optimizer = Adam(params=generator.parameters(), lr=learning_rate)
 
-    generator.load_state_dict(torch.load("models/model_86.pth", map_location=device))
+    # generator.load_state_dict(torch.load("models/model_86.pth", map_location=device))
 
     # Losses
 
