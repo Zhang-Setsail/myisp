@@ -36,10 +36,10 @@ visual_dir = "./visual"
 
 # Dataset size
 
-# TRAIN_SIZE = 24161
-# VAL_SIZE = 2258
-TRAIN_SIZE = 100
-VAL_SIZE = 10
+TRAIN_SIZE = 24161
+VAL_SIZE = 2258
+# TRAIN_SIZE = 100
+# VAL_SIZE = 10
 
 VISUAL_SIZE = 1
 
