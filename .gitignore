@@ -1,0 +1,17 @@
+*.pth
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.gif
+*.webp
+*.ico
+*.svg
+*.eps
+*.dng
+
+/train/*
+/val/*
+
+/__pycache__/*
